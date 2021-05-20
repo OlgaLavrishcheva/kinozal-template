@@ -2,8 +2,13 @@
   text-shadow: 0 0 5px darcen #232323 14%, 0 0 20px darcen #232323 14%;
 }
 
+.header {
+  margin-bottom: 80px;
+}
+
 .navbar-inverse {
   background-color: darken #232323, 4%;
+  margin-bottom: 0;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
